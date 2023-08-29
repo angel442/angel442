@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angel442
 - 👀 I’m interested in blockchain, smart contracts developer
-- 🌱 I’m currently learning solidity, typescrypt and more...
+- 🌱 I’m currently learning node, typescrypt and more... to be a fullstack
 - 📫 How to reach me aprat04@gmail.com
 
 <!---
