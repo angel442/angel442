@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angel442
-- 👀 I’m interested in blockchain, smart contracts developer
-- 🌱 I’m currently learning node, typescrypt and more... to be a fullstack
+- 👀 I’m interested in blockchain, smart contracts developer and microservices
+- 🌱 I’m currently learning more about frontend and backend to be a fullstack
 - 📫 How to reach me aprat04@gmail.com
 
 <!---
